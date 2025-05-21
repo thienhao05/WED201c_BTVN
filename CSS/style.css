@@ -1,0 +1,19 @@
+.nav ul {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+
+.nav {
+    background-color: wheat;
+}
+
+.nav a {
+    color: brown;
+    text-decoration: none;
+
+}
+
+/* tạo nav trong chính cái file repo mà hôm trước nộp cho anh
+    tạo 1 nhánh: nav-bar --> Push code lên nhánh này, và sau đó 
+    tạo pull request từ nhánh này về nhánh main (merge nhánh này về main) */
